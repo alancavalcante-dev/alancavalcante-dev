@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://pm1.aminoapps.com/6845/6137bbd85923fe885ede71c8d9bfef3f884402a8v2_hq.jpg"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h1 align="center">👋🏽 Olá, sou o Alan!</h1>
@@ -54,12 +60,6 @@
   <a href="https://api.whatsapp.com/send/?phone=5511986815754&text=Ol%C3%A1%20Alan,%20tudo%20bem?%20Fui%20encaminhado%20pelo%20seu%20portf%C3%B3lio.&type=phone_number&app_absent=0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="150" src="https://pm1.aminoapps.com/6845/6137bbd85923fe885ede71c8d9bfef3f884402a8v2_hq.jpg"  />
 </div>
 
 ###

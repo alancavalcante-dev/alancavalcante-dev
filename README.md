@@ -54,9 +54,6 @@
     <a href="ala.pereiradocavalcante@gmail.com" target="_blank">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
-    <a href="https://api.whatsapp.com/send/?phone=5511986815754&text=Ol%C3%A1%20Alan,%20tudo%20bem?%20Fui%20encaminhado%20pelo%20seu%20portf%C3%B3lio.&type=phone_number&app_absent=0" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-    </a>
   </div>
   
   ###

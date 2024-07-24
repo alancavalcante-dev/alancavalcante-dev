@@ -10,7 +10,13 @@
   
   ###
   
-  <p align="left">Com 20 anos de idade, dediquei-me ao estudo de Back-end com Python desde o início de 2023, visando aprimorar minhas habilidades para atuar na área de Desenvolvimento de Sistemas. Estou entusiasmado para aplicar meus conhecimentos na prática, buscando constantemente oportunidades que me permitam progredir profissionalmente. Sou comprometido com meu desenvolvimento e estou sempre pronto para aprender e enfrentar novos desafios, demonstrando assim minha disposição para contribuir de forma significativa em projetos futuros.</p>
+  <p align="left">Prazer, eu sou o Alan!
+
+Sou desenvolvedor de sistemas, atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UniFecaf. Nas horas vagas, atuo como freelancer Full Stack.
+
+Minhas principais características são: comunicativo, comprometido, solucionador de problemas e atencioso aos detalhes. Sou dedicado à área de tecnologia e sigo um rigoroso projeto de estudos, no qual realizo dois grandes projetos por mês e concluo três cursos, somando pelo menos 50 horas de aprendizado mensal.
+
+Estou sempre aprimorando minhas habilidades em C#, SQL, Docker e Cloud (AWS ou Azure). Meu objetivo é me manter atualizado e preparado para enfrentar novos desafios.</p>
   
   ###
   

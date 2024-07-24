@@ -45,7 +45,10 @@ Estou sempre aprimorando minhas habilidades em C#, SQL, Docker e Cloud (AWS ou A
     <img width="14" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="14" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40filipeferreira.dev%2Fpostman-dicas-de-produtividade-c59de7feb8d0&psig=AOvVaw2eo2sLKsXXH1k3D0Zxka7o&ust=1721950911299000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDU35LtwIcDFQAAAAAdAAAAABAJ" height="40" alt="Postman logo"  />
+    <img width="14" />
   </div>
+
 
   ###
   

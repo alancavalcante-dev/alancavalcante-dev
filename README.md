@@ -71,10 +71,10 @@ Estou sempre aprimorando minhas habilidades em C#, SQL, Docker e Cloud (AWS ou A
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="40" alt="confluence logo"  />
+    <img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies-thumbnail.png" height="40" alt="postman logo">
   </div>
   
   ###
-
   
   ###
   

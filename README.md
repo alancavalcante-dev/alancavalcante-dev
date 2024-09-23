@@ -45,7 +45,7 @@ Estou sempre aprimorando minhas habilidades em C#, SQL, Docker e Cloud (AWS ou A
     <img width="14" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="14" />
-    <img src="https://www.django-rest-framework.org/img/logo.png" width="14" height="40" alt="django rest framework logo">
+    <img src="https://www.django-rest-framework.org/img/logo.png" height="40" alt="django rest framework logo">
   </div>
 
 

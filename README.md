@@ -16,7 +16,7 @@ Sou desenvolvedor de sistemas, atualmente estou cursando Análise e Desenvolvime
 
 Minhas principais características são: comunicativo, comprometido, solucionador de problemas e atencioso aos detalhes. Sou dedicado à área de tecnologia e sigo um rigoroso projeto de estudos, no qual realizo dois grandes projetos por mês e concluo três cursos, somando pelo menos 50 horas de aprendizado mensal.
 
-Estou sempre aprimorando minhas habilidades em C#, SQL, Docker e Cloud (AWS ou Azure). Meu objetivo é me manter atualizado e preparado para enfrentar novos desafios.</p>
+Estou sempre aprimorando minhas habilidades em Java, Spring Boot, SQL, Docker e Cloud (AWS ou Azure). Meu objetivo é me manter atualizado e preparado para enfrentar novos desafios.</p>
   
   ###
   
